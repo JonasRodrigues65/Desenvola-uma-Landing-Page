@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+}   
+
+#menu-superior{
+    background-color: #303030;
+    block-size: 475px;
+}
+
+#titulo-menu-superior{
+    font-family: 'inter';
+    color: #FFFFFF;
+    font-size: 60px;
+    margin-left: 100px;
+    padding-top: 206px;
+}
+
+#paragrafo-menu-superior{
+    font-family: 'inter';
+    color: #FFFFFF; 
+    font-size: 20px;
+    margin-left: 100px;
+    line-height: 28px;
+}
+
+#menu-informacional{
+    font-family: 'inter';
+    background-color: #F9F9F9;
+    block-size: 229px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.menuInformacional{
+    font-family: 'inter';
+    padding: 95px;
+    padding-left: 140px;
+}
+
+.numero-menu-informacional{
+    font-family: 'inter';
+    color: #000000;
+    font-size: 40px;
+}
+
+.frases-menu-informacional{
+    font-family: 'inter';
+    color: #000000;
+    font-size: 20px;
+}
+
+#secao-imagem{
+    display: grid;
+    grid-auto-flow: column;
+    padding-top: 60px;
+    margin-left: 10px;
+    block-size: 660px;
+}
+
+#titulo-secao-imagem{
+    font-family: 'inter';
+    color: #000000;
+    font-size: 37px;
+    padding-top: 180px;
+    margin-left: 100px;
+}
+
+#paragrafo-secao-imagem{
+    font-family: 'inter';
+    color: #000000;
+    font-size: 24px;
+    margin-left: 100px;
+    width: 735px;
+    height: 161px;
+    width: 735px;
+    top: 1003px;
+    left: 77px;
+}
+
+#formulario{
+    block-size: 638px;
+    background-color: #303030;
+    text-align: center; 
+}
+
+#titulo-formulario{
+    font-family: 'inter';
+    color: #FFFFFF;
+    font-size: 32px;    
+    padding-top: 100px;
+}
+
+input{
+    width: 508px;
+    height: 72px;
+    border-radius: 10px;
+    margin-top: 50px;
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+#input-placeholder::placeholder {
+    font: 'raleway';
+    font-size: 24px;
+    color: #0000004D;
+    padding-left: 10px;
+}
+
+button{
+    font: 'raleway';
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 50px;
+    width: 286px;
+    height: 74px;
+    border-radius: 10px;
+    background-color: #C07212;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #9a5f17;
+    color: #d69545;
+}
