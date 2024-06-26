@@ -1,2 +1,2 @@
-# Desenvola-uma-Landing-Page
+# Desenvolva-uma-Landing-Page
 Desafio 1 Desenvolva uma Landing Page
